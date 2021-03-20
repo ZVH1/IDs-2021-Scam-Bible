@@ -1,0 +1,11 @@
+This is just a backup for ops but it's pretty official.
+The Helvetica fonts included should work for the typesetting.
+I can't be sure of security features, if any, because this was worked from the net.
+Please check the included jpeg for reference.
+Source: http://www.idcard.psu.edu/thecard/
+Resolution: 600 dpi
+Color Mode: CMYK
+Dimensions: 3.375in x 2.125in
+The PSD files are Photoshop CS2 format.
+
+- Pantone
